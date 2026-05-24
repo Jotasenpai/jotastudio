@@ -57,7 +57,7 @@ export default function Contact() {
                 <Linkedin size={16} strokeWidth={1.5} />
               </a>
               <a
-                href="#"
+                href="https://github.com/Jotasenpai"
                 aria-label="GitHub"
                 className="w-11 h-11 rounded-full border border-zinc-800 flex items-center justify-center text-zinc-500 hover:border-zinc-600 hover:text-zinc-300 transition-all duration-200"
               >
