@@ -50,7 +50,7 @@ export default function Contact() {
 
             <div className="flex items-center gap-3">
               <a
-                href="#"
+                href="https://www.linkedin.com/in/juan-manuel-guisado-igualada-a869b5134/"
                 aria-label="LinkedIn"
                 className="w-11 h-11 rounded-full border border-zinc-800 flex items-center justify-center text-zinc-500 hover:border-zinc-600 hover:text-zinc-300 transition-all duration-200"
               >
