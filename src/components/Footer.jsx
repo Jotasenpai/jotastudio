@@ -6,7 +6,7 @@ export default function Footer() {
           Jota<span className="text-emerald-400">.</span>
         </p>
         <p className="text-xs text-zinc-700 text-center">
-          &copy; 2025 JotaStudio. Construido con React, Tailwind y GSAP.
+          &copy; 2026 JotaStudio.
         </p>
         <p className="text-xs text-zinc-800 font-mono">
           v1.0.0

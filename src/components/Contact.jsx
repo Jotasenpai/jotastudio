@@ -41,7 +41,7 @@ export default function Contact() {
 
           <div className="contact-item flex flex-col sm:flex-row items-start sm:items-center gap-5">
             <a
-              href="mailto:juanma.guisado.igualada@gmail.com"
+              href="mailto:jota.studioweb@gmail.com"
               className="inline-flex items-center gap-3 px-7 py-4 bg-emerald-500 text-zinc-950 text-sm font-semibold rounded-full hover:bg-emerald-400 transition-all duration-200 active:scale-[0.97]"
             >
               <Send size={15} strokeWidth={2.5} />
@@ -69,10 +69,10 @@ export default function Contact() {
           <div className="contact-item mt-16 pt-8 border-t border-zinc-800/40">
             <p className="text-xs text-zinc-700 mb-1.5 tracking-wide">Email directo</p>
             <a
-              href="mailto:juanma.guisado.igualada@gmail.com"
+              href="mailto:jota.studioweb@gmail.com"
               className="text-sm font-mono text-zinc-600 hover:text-zinc-300 transition-colors duration-200"
             >
-              juanma.guisado.igualada@gmail.com
+              jota.studioweb@gmail.com
             </a>
           </div>
         </div>
